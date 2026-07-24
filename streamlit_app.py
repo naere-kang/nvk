@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Naere Valentine Kang", page_icon="⚖️", layout="centered")
+st.set_page_config(page_title="About", page_icon="⚖️", layout="centered")
 
 st.title("Naere Valentine Kang")
 st.caption("NVK · Regulatory & Governance across the High-Tech Industries")
